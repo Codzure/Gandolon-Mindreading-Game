@@ -1,0 +1,12 @@
+/Users/leonardmuthoni/Codzure/C# Program/bin/Debug/netcoreapp3.1/C# Program.deps.json
+/Users/leonardmuthoni/Codzure/C# Program/bin/Debug/netcoreapp3.1/C# Program.runtimeconfig.json
+/Users/leonardmuthoni/Codzure/C# Program/bin/Debug/netcoreapp3.1/C# Program.runtimeconfig.dev.json
+/Users/leonardmuthoni/Codzure/C# Program/bin/Debug/netcoreapp3.1/C# Program.dll
+/Users/leonardmuthoni/Codzure/C# Program/bin/Debug/netcoreapp3.1/C# Program.pdb
+/Users/leonardmuthoni/Codzure/C# Program/obj/Debug/netcoreapp3.1/C# Program.csprojAssemblyReference.cache
+/Users/leonardmuthoni/Codzure/C# Program/obj/Debug/netcoreapp3.1/C# Program.AssemblyInfoInputs.cache
+/Users/leonardmuthoni/Codzure/C# Program/obj/Debug/netcoreapp3.1/C# Program.AssemblyInfo.cs
+/Users/leonardmuthoni/Codzure/C# Program/obj/Debug/netcoreapp3.1/C# Program.csproj.CoreCompileInputs.cache
+/Users/leonardmuthoni/Codzure/C# Program/obj/Debug/netcoreapp3.1/C# Program.dll
+/Users/leonardmuthoni/Codzure/C# Program/obj/Debug/netcoreapp3.1/C# Program.pdb
+/Users/leonardmuthoni/Codzure/C# Program/obj/Debug/netcoreapp3.1/C# Program.genruntimeconfig.cache
